@@ -46,29 +46,30 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
+- how to position a background image:[MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/background-size)
 
 ```css
-.proud-of-this-css {
-  color: papayawhip;
+body {
+  background-image: url("./assets/bg-main-desktop.png");
+  background-repeat: no-repeat;
+  background-position: 0% 20%;
+  background-size: cover;
+  min-height: 100vh;
 }
 ```
 
-```js
-const proudOfThisFunc = () => {
-  console.log("🎉");
-};
+- how to make an image overflow: [CSS Trisck](https://css-tricks.com/almanac/properties/o/overflow/)
+
+```css
+.container {
+  overflow: hidden;
+}
+
+.img {
+  position: relative;
+  bottom: 40px;
+}
 ```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
