@@ -9,3 +9,13 @@ body {
   background-size: cover;
   min-height: 100vh;
 }
+
+.container {
+  position: relative;
+  width: 65%;
+  left: 20%;
+}
+
+.logo {
+  margin-top: 60px;
+}
