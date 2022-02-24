@@ -1,13 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;700&display=swap");
 :root {
+  --font: "IBM Plex Sans", sans-serif;
 }
 
 body {
   background-image: url("./assets/bg-main-desktop.png");
   background-repeat: no-repeat;
   background-position: 0% 20%;
-
   background-size: cover;
   min-height: 100vh;
+  font-family: var(--font);
 }
 
 .container {
@@ -18,4 +20,36 @@ body {
 
 .logo {
   margin-top: 60px;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 88px;
+  margin-top: 127px;
+  margin-bottom: 40px;
+  margin-right: 50px;
+}
+
+.container p {
+  font-weight: 400;
+  line-height: 34px;
+  margin-right: 300px;
+  font-size: 20px;
+  margin-bottom: 321px;
+}
+
+.black-background {
+  background-color: black;
+  border-radius: 12px;
+  overflow: hidden;
+  padding-bottom: 130px;
+}
+
+.black-background .pattern-2 {
+  position: relative;
+  bottom: 40px;
+  margin-left: 336px;
+
+  height: 468px;
+  width: 312px;
 }
