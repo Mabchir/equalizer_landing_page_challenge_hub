@@ -1,0 +1,11 @@
+:root {
+}
+
+body {
+  background-image: url("./assets/bg-main-desktop.png");
+  background-repeat: no-repeat;
+  background-position: 0% 20%;
+
+  background-size: cover;
+  min-height: 100vh;
+}
