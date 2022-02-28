@@ -44,7 +44,7 @@ Users should be able to:
 
 ### What I learned
 
-- how to position a background image:[MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/background-size)
+- how to position a background image
 
 ```css
 body {
@@ -56,7 +56,7 @@ body {
 }
 ```
 
-- how to make an image overflow: [CSS Trisck](https://css-tricks.com/almanac/properties/o/overflow/)
+- how to make an image overflow
 
 ```css
 .container {
@@ -77,8 +77,9 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [StackOverFlow](https://stackoverflow.com/questions/2027657/overlapping-elements-in-css) - How to overlay different items in a div
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/background-size) - how to position a background image:
+- [CSS Trisck](https://css-tricks.com/almanac/properties/o/overflow/) - how to make an image overflow
 
 **Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
