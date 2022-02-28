@@ -4,9 +4,8 @@ This is my solution to the [Equalizer landing page challenge on Frontend Mentor]
 
 ## Table of contents
 
-- [Overview](#overview)
+- [Overview](#overview
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -25,14 +24,10 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
 
-### Screenshot
-
-![](./screenshot.jpg)
-
 ### Links
 
 - Solution URL: [Github](https://github.com/Mabchir/equalizer_landing_page_challenge_hub)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Live Site URL: [Netlify](https://objective-wright-f91014.netlify.app/)
 
 ## My process
 
@@ -71,9 +66,7 @@ body {
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+- I am finding hard to find the optimal way of diving the different components of a complex design. are there certain guidlines that maybe helpful?
 
 ### Useful resources
 
@@ -81,18 +74,17 @@ Use this section to outline areas that you want to continue focusing on in futur
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/background-size) - how to position a background image:
 - [CSS Trisck](https://css-tricks.com/almanac/properties/o/overflow/) - how to make an image overflow
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
-
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Mariem Bchir](https://goofy-easley-2c8717.netlify.app/index.html)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Frontend Mentor - [@Mabchir](https://www.frontendmentor.io/profile/Mabchir)
+
+- Github - [Mabchir](https://github.com/Mabchir)
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+- Frontend Mentor - [@grace-snow](https://www.frontendmentor.io/profile/grace-snow)
+- Frontend Mentor - [@maqsudtolipov](https://www.frontendmentor.io/profile/maqsudtolipov)
+- Frontend Mentor - [@vanzasetia](https://www.frontendmentor.io/profile/vanzasetia)
+- Frontend Mentor - [@optimusprime202](https://www.frontendmentor.io/profile/optimusprime202)
