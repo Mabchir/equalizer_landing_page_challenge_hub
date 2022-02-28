@@ -6,7 +6,7 @@
 body {
   background-image: url("./assets/bg-main-desktop.png");
   background-repeat: no-repeat;
-  background-position: 0% 35%;
+  background-position: 0% 60%;
   background-size: cover;
   min-height: 100vh;
   font-family: var(--font);
@@ -14,13 +14,14 @@ body {
 
 .container {
   position: relative;
-  width: 75%;
+
   left: 15%;
 }
 
 .part1 {
   display: flex;
   overflow: hidden;
+  width: 75%;
 }
 .logo {
   margin-top: 60px;
@@ -47,9 +48,9 @@ h1 {
   bottom: 40px;
 }
 .part2 {
-  position: absolute;
   overflow: visible;
   width: 65%;
+  height: 750px;
 }
 .black-background {
   position: absolute;
@@ -135,4 +136,32 @@ h1 {
 .card .android {
   color: black;
   background-color: #fcfaf9;
+}
+
+.part3 {
+  display: flex;
+  width: 65%;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.part3 .text {
+  display: flex;
+  justify-content: left;
+  align-items: baseline;
+}
+.part3 p {
+  width: 366px;
+  margin-left: 180px;
+}
+
+.part3 a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+.part3 .social_logo {
+  margin-left: 20px;
 }
