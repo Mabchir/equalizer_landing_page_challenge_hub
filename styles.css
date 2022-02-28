@@ -27,17 +27,26 @@ h1 {
   font-size: 88px;
   margin-top: 127px;
   margin-bottom: 40px;
-  margin-right: 50px;
+  /* margin-right: 50px; */
 }
 
 .container p {
   font-weight: 400;
   line-height: 34px;
-  margin-right: 300px;
+  /* margin-right: 300px; */
   font-size: 20px;
   margin-bottom: 321px;
 }
 
+.part1 {
+  display: flex;
+  overflow: hidden;
+}
+.part1 .pattern-1 {
+  height: 50%;
+  position: relative;
+  bottom: 40px;
+}
 .black-background {
   background-color: black;
   border-radius: 12px;
